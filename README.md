@@ -12,7 +12,7 @@ This repository serves as the central hub for my CS-499 Computer Science Capston
 	3.	Databases
 Each enhancement reflects both my technical development and my readiness for a professional data engineering role.
 
-## Featured Artifacr
+## Featured Artifact
 ### Project: Grazioso Salvare Animal Data Dashboard (CS-340)
 
 - Original Purpose:** Developed a full-stack dashboard application using Python, MongoDB, and Dash to help *Grazioso Salvare* identify rescue-ready dogs through data visualization and filtering.  
