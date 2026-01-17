@@ -26,6 +26,18 @@ Each enhancement reflects both my technical development and my readiness for a p
 
 ---
 
+## Original and Enhanced Artifacts
+
+- **Original Artifact (CS-340 – Pre-Enhancement):**  
+  https://github.com/MarioFred-snhu/CS-340-Final-Project  
+  This repository contains the original implementation of the Grazioso Salvare Animal Data Dashboard prior to all CS-499 enhancements.
+
+- **Enhanced Artifact (CS-499 – Capstone):**  
+  https://github.com/MarioFred-snhu/data-engineering-eportfolio-artifact  
+  This repository contains the enhanced version developed for the CS-499 Capstone, incorporating improvements in software design, algorithm efficiency, and database analytics.
+
+---
+
 ## Enhancement Overview
 
 | Category | Focus | Enhancement Summary |
@@ -69,5 +81,6 @@ Additional materials:
 
 ## Explore the Work
 
-- **Repository:** https://github.com/MarioFred-snhu/data-engineering-eportfolio-artifact  
+- **Enhanced Repository:** https://github.com/MarioFred-snhu/data-engineering-eportfolio-artifact  
+- **Original CS-340 Repository:** https://github.com/MarioFred-snhu/CS-340-Final-Project  
 - **GitHub Pages:** https://mariofred-snhu.github.io/data-engineering-eportfolio-artifact/
