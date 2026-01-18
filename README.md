@@ -48,6 +48,16 @@ Each enhancement reflects both my technical development and my readiness for a p
 
 ---
 
+## Geolocation Design Decision & Data Limitations
+
+The Grazioso Salvare dataset does not include geographic coordinate data (latitude and longitude). Location information is provided only as unstructured text fields (e.g., “Found Location”), which limits the ability to perform true geospatial plotting without introducing external services.
+
+Rather than relying on third-party geocoding APIs—which introduce rate limits, accuracy concerns due to inconsistent address formatting, and external dependencies—the dashboard map was intentionally designed to center on the Austin, TX service region and provide contextual location awareness without fabricating or over-processing data.
+
+This design decision reflects real-world data engineering constraints and emphasizes responsible handling of incomplete datasets while maintaining transparency and system reliability.
+
+---
+
 ## Technical Skills Demonstrated
 
 - Python (Object-Oriented Programming, Data Analysis, Dash Framework)
